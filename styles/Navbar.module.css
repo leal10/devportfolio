@@ -46,3 +46,5 @@
   width: 80px;
   cursor: pointer;
 }
+
+/* add media query to navbar to to make hamburger icon appear on the width of 750px */

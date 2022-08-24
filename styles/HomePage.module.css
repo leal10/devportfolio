@@ -1,0 +1,27 @@
+.HomeContainer {
+  display: flex;
+  background-color: lightgray;
+  height: 800px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.HomeSentenceContainer {
+  display: column;
+  margin: 20px;
+  height: 180px;
+  width: 750px;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 30px;
+}
+
+.HomeSentence {
+  display: flex;
+  justify-content: center;
+}
+
+.HomeButton {
+  /* customize the button of the home page */
+}
