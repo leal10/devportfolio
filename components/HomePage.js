@@ -6,7 +6,10 @@ function HomePage() {
       <div className={styles.HomeSentenceContainer}>
         <h1 className={styles.HomeSentence}>Hello, I'm Daniel Leal.</h1>
         <h1 className={styles.HomeSentence}>I'm a full-stack web developer.</h1>
-        <button className={styles.HomeButton}>View my work</button>
+        <div className={styles.ButtonContainer}>
+          <button className={styles.HomeButton}>View my work</button>
+          <button className={styles.ContactButton}>Contact</button>
+        </div>
       </div>
     </div>
   )
