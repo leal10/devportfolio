@@ -5,7 +5,8 @@
   width: 100%;
   justify-content: center;
   align-items: center;
-  background-image: url('/backgroundImg.jpg');
+  background: white;
+  /* background-image: url('/backgroundImg.jpg');  this is not working anymore but i can change the image later if chosen to */
   background-size: cover;
 }
 
