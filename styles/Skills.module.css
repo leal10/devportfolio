@@ -1,8 +1,29 @@
-.skillsContainer {
+/* here is the whole skills section */
+.skillsSection {
   background-color: orange;
   width: 100%;
   height: 800px;
   display: flex;
+}
+
+/* The title format will be here  */
+.skillsHeading {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+/* The actual skills container */
+.skillsBox {
+  display: flex;
   align-items: center;
   justify-content: center;
+  width: 900px;
+  height: 800px;
+  background-color: aquamarine;
+}
+
+.skillsContainer {
+  background-color: brown;
+  height: 400px;
+  width: 100%;
 }
