@@ -7,7 +7,7 @@ function Skills() {
       <h2 className={styles.skillsHeading}>Check out my skills</h2>
       <div className={styles.skillsBox}>
         <div className={styles.skillsContainer}>
-          I will place the skills here in little individual boxes
+          I will place the skills here in little individual boxes.
         </div>
       </div>
     </div>
